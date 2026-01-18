@@ -51,8 +51,9 @@ Loaded cleaned data into a SQL database and executed structured business queries
 
 **Impact:**  
 Replicated an industry-grade analytics workflow.
+<img width="2752" height="1536" alt="unnamed" src="https://github.com/user-attachments/assets/190136cd-e9a4-453f-afd9-c26105c2f93e" />
 
-![Uploading image.png…]()
+
 ## 🛠️ Tools & Technologies Used
 - **Python:** Pandas, NumPy (Data Cleaning & Feature Engineering)
 - **SQL:** PostgreSQL / MS SQL Server (Business Analysis)
